@@ -11,11 +11,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mohamed-mousa-744769272/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
+  <!-- Facebook -->
   <a href="https://www.facebook.com/mohamedmousa11520031" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201285947399" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
 
